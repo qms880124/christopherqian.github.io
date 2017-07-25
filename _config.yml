@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: http://www.baidu.com
 date_format: "ordinal"
 title: 陌上花开
 subtitle: "一身转战三千里，一剑曾当百万师。"
@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: ChristopherQian/christopherqian.github.io
 
 # ---------------- #
 #      Comments    #
