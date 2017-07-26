@@ -95,7 +95,7 @@ disqus:
 #    productKey: 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: christopherqian
+    owner: ChristopherQian
     repo: blog-comments
     oauth:
         client_id: 01d68d07d742e2214401
