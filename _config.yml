@@ -96,10 +96,10 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: ChristopherQian
-    repo: blog-comments
+    repo: christopherqian.github.io-comments
     oauth:
-        client_id: 01d68d07d742e2214401
-        client_secret: 026417ac73772c938e6fc406021616b61ee95dc3
+        client_id: 658b002578ce66cd8d63
+        client_secret: c685b6c6567dc569f540e968a79a9b9aaa74110c
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
