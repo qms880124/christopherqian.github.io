@@ -96,7 +96,7 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: christopherqian
-    repo: blog-comments
+    repo: christopherqian.github.io
     oauth:
         client_id: 658b002578ce66cd8d63
         client_secret: f77e0a69fb8f43643451240ce9b9fb4aa238500d
